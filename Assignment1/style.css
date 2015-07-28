@@ -1,0 +1,41 @@
+.logo{
+	text-align: left;
+	font-size:20px 
+}
+.banner{
+	text-align: center;
+	font-size:30px;
+	background-color:grey;
+	line-height:150px
+}
+
+body{
+	font-family:Arial,Helvetica,sans;
+		font-style:normal;
+		font-size:1.1em;
+		width=100%;
+		margin:0
+}
+.container{
+		margin: 0cm 2.5cm 0cm 2.5cm	
+}
+
+.inner{
+		font-family:Arial,Helvetica,sans;
+		font-style:normal;
+}
+
+.para {
+		text-align:left;
+		font-size:11px;
+		line-height:17px;
+		margin:0px 0px 12px 0px;
+		padding:0.1cm 0.7cm 0cm 0.7cm;
+
+}
+
+.head{
+		margin:5px;	
+		padding-left: 0.6cm;	
+		font-weight:normal
+	}
