@@ -1,0 +1,176 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	margin:0 auto;
+	width:940px;
+}
+.logo{
+	float:left;
+}
+.logo a{
+	width:135px;
+	height:55px;
+	background-color: orange;
+	display: block;
+}
+.head{
+	float:left;
+}
+.menu{
+	float:left;
+}
+.menu li{
+	float:left;
+	font-family: arial;
+	list-style-type: none;  
+}
+.menu li a{
+	color:#000000;
+	display: block;
+	font-size:16px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-left:30px;
+	height:35px;
+}
+.container2 .container{
+	position:relative;
+	height: inherit;
+}
+.imgtext1{
+	position:absolute;
+	font-size: 44px;
+	color:#ffffff;
+	bottom: 50px;
+}
+.imgtext2{
+	position:absolute;
+	font-size: 22px;
+	color:#ffffff;
+	bottom: 20px;
+}
+.container3 .container{
+	height:inherit;
+}
+.container3 ul{
+	height:inherit;
+}
+a{
+	text-decoration: none;
+}
+.searchbar{
+	float:right;
+	margin-top: 7px;
+}
+.textbox{
+	height: 40px;
+	width:240px;
+	background-color:#fffff0;
+	float:left;
+	border-width: 0px;
+}
+.searchbar img{
+	float:right;
+	    height: 40px;
+}
+.container2{
+	background-color: black;
+	height:543px;
+	
+}
+
+
+.container3{
+	background-color: #ecab1f;
+	height: 100px;
+}
+	.rect1{
+	width:220px;
+	height: 60px;
+	background-color:#ffffff;
+	border-radius: 5px 10px 5px 10px;
+	text-align: center;
+}
+.container5{
+	height: 120px;
+	background-color: #ffffff;
+}
+.list1{
+	display:block;
+}
+.list1 .rect1 a{
+	color:#000000;
+	height:60px;
+	width:220px;
+	display:block;
+}
+
+.list1 li{
+	list-style-type: none;
+	float:left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.left{
+	padding-right: 20px;
+}
+.rect1 img{
+	float:right;
+}
+.text{
+	padding: 20px 10px;
+	text-align: left;
+	display:block;
+}
+h1{
+	margin-top:60px;
+
+	color:#888888;
+	font-size: 40px;
+}
+.list2{
+	float:left;
+	margin-top: 20px;
+}
+.list2 li{
+	list-style-type: none;   
+	float:left;
+
+}
+.list2 a{
+	display:block;
+}
+.list2 img{
+	background-color:#4466ff; 
+	display: block;
+}
+.list2 span{
+	display:block;
+}
+.rect2{
+	height:96px;
+	width:300px;
+	background-color: #4466ff;
+}
+.right{
+	padding-left: 20px;
+}
+.info1{
+	font-size: 11px;
+	color:#ffffff;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.info2{
+	font-size: 18px;
+	color:#ffffff;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.clear{
+	clear:both;
+	float:none;
+}

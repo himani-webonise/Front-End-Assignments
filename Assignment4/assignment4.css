@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-color: #000000;
+	height:40px;
+	margin-bottom: 20px;
+}
+.project-name{
+	font-size: 20px;
+}
+.project-name{
+	margin-top: 10px;
+}
+.menu{
+	display: block;
+}
+.loginform{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+a{
+	text-decoration: none;
+	color: #999999;
+	display: block;
+}
+a:hover{
+	color:#ffffff;
+	text-decoration: none;
+}
+.menu li{
+	list-style-type: none;
+	display: block;
+}
+.menu li a{
+	margin:10px 0px  0px 20px;
+}
+.textbox{
+	
+	max-width: 130px;
+}
+
+.body-top{
+	padding:60px;
+	background-color: #eeeeee;
+	border-radius: 6px;
+}
+.body-top h1{
+	font-size: 60px;
+	padding-bottom:8px;
+}
+.body-top p{
+	    font-size: 18px;
+	    line-height: 1.5;
+	    width:845px;
+	    margin:0;
+}
+.body-botm{
+	padding-top: 25px;
+}
+footer p{
+	padding-top: 30px;
+}
